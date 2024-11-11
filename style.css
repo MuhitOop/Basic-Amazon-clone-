@@ -67,6 +67,10 @@
     border-radius:5px;
 }
 
+.search-box:hover{
+    border: 2px solid orange;
+}
+
 .search-select{
     background-color: #f3f3f3;
     width: 50px;
@@ -92,4 +96,26 @@
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
     color:#0f1111;;
+}
+
+/** box-4**/
+
+span{
+    font-size: 0.75rem;
+}
+
+.nav-secound{
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+
+/** box-5**/
+
+.nav-cart i{
+    font-size: 30px;
+}
+.nav-cart{
+    font-size: 0.85rem;
+    font-weight: 700
+    ;
 }
